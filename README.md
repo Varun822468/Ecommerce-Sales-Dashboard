@@ -1,14 +1,15 @@
-# MadhavStore-Ecommerce-Sales-Dashboard-PowerBI
+#Ecommerce-Sales-Dashboard-PowerBI
 
-Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the owner of Madhav Store track and analyze their online sales across India.
+Welcome to the Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to provide a comprehensive overview of an e-commerce company's performance across multiple business dimensions.
 
 **Project Objective**
 
-The primary objective of this project was to assist the owner of Madhav Store in gaining insights into their online sales data. By creating an interactive and visually appealing dashboard, we aimed to provide the owner with a tool to make data-driven decisions and enhance their online sales strategy.
+The primary goal of this project was to help the management team of an e-commerce business (FreshCo) make data-driven decisions by visualizing sales, customer behavior, and delivery efficiency through an interactive and insightful dashboard. This tool enables stakeholders to quickly identify trends, performance gaps, and growth opportunities.
 
 **Getting Started**
 
-To view and interact with the dashboard, you'll need **Power BI Desktop**. You can download and install it from the Microsoft Store or by following this link(https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+To open and explore this dashboard, please ensure you have Power BI Desktop installed.
+Download here: Power BI Desktop (Microsoft)
 
 **Data Source**
 
@@ -36,9 +37,9 @@ Utilized various customized visualizations such as bar charts, donut charts, clu
 
 **Acknowledgments**
 
-Special thanks to Rishabh Mishra for the valuable tutorials and guidance during the development of this project. You can find the tutorials here(https://www.youtube.com/watch?v=6cV3OwFrOkk&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo).
+Special thanks to Power BI community forums and tutorial creators for providing guidance during development. This dashboard aims to provide a clear and actionable overview of e-commerce performance to assist in strategic decision-making.
 
-We hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
+We hope this dashboard provides valuable insights for Ecommerce-Sales. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
 Happy analyzing!
 
 
