@@ -1,4 +1,4 @@
-#Ecommerce-Sales-Dashboard-PowerBI
+**#Ecommerce-Sales-Dashboard-PowerBI**
 
 Welcome to the Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to provide a comprehensive overview of an e-commerce company's performance across multiple business dimensions.
 
@@ -41,6 +41,47 @@ Special thanks to Power BI community forums and tutorial creators for providing 
 
 We hope this dashboard provides valuable insights for Ecommerce-Sales. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
 Happy analyzing!
+
+**ECommerce-Sales-Analysis-Excel**
+
+Welcome to the Myntra Sales Dashboard repository! This project was created using Microsoft Excel to provide a comprehensive overview of Myntra's sales performance across multiple business dimensions.
+
+**Project Objective**
+The primary goal of this project was to help the management team of Myntra make data-driven decisions by visualizing sales, customer behavior, product demand, and regional performance through an interactive and insightful Excel dashboard. This tool enables stakeholders to quickly identify trends, performance gaps, and growth opportunities.
+
+**Getting Started**
+To open and explore this dashboard, please ensure you have Microsoft Excel (2016 or later) installed.
+
+No external plugins or software required.
+
+**Data Source**
+The sales data is stored in an Excel spreadsheet with multiple dimensions such as states, customers, categories, and payment modes. The following steps were followed in the project:
+
+Extract the Data: Raw sales data was sourced in structured Excel format.
+
+Transform the Data: Excel formulas and pivot tables were used to clean, summarize, and format the data.
+
+Load into Dashboard: The transformed data was visualized using Pivot Charts, Slicers, and interactive elements.
+
+**Project Learning**
+During the course of this project, the following key skills and techniques were utilized:
+
+**Interactive Dashboard Creation**: Created a clean and intuitive Excel dashboard that enables users to explore sales metrics effortlessly.
+
+**Data Modeling and Transformation**: Used Excel functions to structure raw data for analysis.
+
+**Visualization Techniques**: Implemented dynamic charts such as bar charts, pie charts, donut charts, and line graphs.
+
+**Filters and Slicers**: Added slicers for real-time filtering of payment methods, states, and categories.
+
+**Insightful KPIs**: Displayed key performance indicators like total sales amount and profit.
+
+**Acknowledgments**
+Special thanks to the Excel community forums, data visualization experts, and online resources that provided insights and techniques for creating professional dashboards. This project aims to deliver a clear and actionable overview of Myntra's e-commerce performance.
+
+
+
+
 
 
 
