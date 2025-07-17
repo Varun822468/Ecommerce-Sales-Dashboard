@@ -42,7 +42,7 @@ Special thanks to Power BI community forums and tutorial creators for providing 
 We hope this dashboard provides valuable insights for Ecommerce-Sales. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
 Happy analyzing!
 
-**ECommerce-Sales-Analysis-Excel**
+**#ECommerce-Sales-Analysis-Excel**
 
 Welcome to the Myntra Sales Dashboard repository! This project was created using Microsoft Excel to provide a comprehensive overview of Myntra's sales performance across multiple business dimensions.
 
